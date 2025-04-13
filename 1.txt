@@ -7,3 +7,5 @@ zmiana123
 kolejna zmiana
 
 g2
+
+miana w repo 2 g3
