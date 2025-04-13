@@ -6,4 +6,4 @@ zmiana123
 
 kolejna zmiana
 
-g2
+g1
