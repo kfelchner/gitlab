@@ -5,6 +5,3 @@ t
 zmiana123
 
 kolejna zmiana
-
-
-zmiana w 1 folderze
